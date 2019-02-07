@@ -1,0 +1,183 @@
+.mymain{
+    height: 1500;
+    width: 100%;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.slider1{
+    height:500px;
+    width: 100%;
+    background-image: url("./images/LayingFoundations.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.slider1 h1{
+    padding-top: 20%;
+    text-align: center;
+    color: azure;
+    font-size: 40px;
+}
+.slider2{
+    height:500px;
+    width: 100%;
+    background-image: url("./images/hbackground.png");
+}
+.slider2{
+    text-align: center;
+    color: black;
+    font-size: 17px;
+}
+.slider3{
+    height:700px;
+    width: 100%;
+    background-image: url("./images/belief-bg.jpg");
+    background-attachment: fixed;
+
+}
+.slider3{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+.slider4{
+    height:400px;
+    width: 100%;
+
+}
+.slider4{
+    text-align: center;
+    font-size: 18px;
+}
+.slider5{
+    height:500px;
+    width: 100%;
+    background-image: url("./images/features-bg.jpg");
+    background-attachment: fixed;
+
+
+}
+.slider5{
+    text-align: center;
+    color: black;
+    font-size: 23px;
+}
+.slider6{
+    height:700px;
+    width: 100%;
+}
+.slider6{
+        text-align: center;
+        font-size: 17px;
+}
+.product{
+
+    height: 700px;
+    width: 100%;
+    background-color:white;
+
+}
+
+.VirtualDeliveryManagement{
+height: 400px;
+width: 300px;
+
+margin: 20px 0px 0px 420px;
+padding: 50px 0px 0px 5px;
+border: 2px solid #027DB3;
+background-image: url('./images/product-UCP.png');
+background-repeat: no-repeat;
+background-position: center;
+float: left;
+border-radius: 10px;
+}
+.VirtualDeliveryManagement{
+
+    text-align: center;
+        font-size: 17px;
+        margin-top:20px;
+}
+
+.pricing h4{
+height: 40px; width: 200px;
+border:2px solid skyblue;
+margin: 6% 0px 0px 50px;
+text-align: center;
+padding-top: 13px;
+
+
+color: #1589BB
+}
+
+.VirtualDeliveryManagement p{
+
+    margin-top: 55%;
+}
+
+.pricing h4:hover{
+    background-color:#1589BB;
+    color:white;
+}
+
+.slider7{
+    height:800px;
+    width: 100%;
+    background-image: url("./images/about-bg.jpg");
+    background-attachment: fixed;
+
+}
+.slider7{
+    text-align: center;
+    font-size: 17px;
+    color: white;
+
+}
+.leadershipteam{
+    height: 700px;
+    width: 100%;
+    background-color:white;
+}
+.vikas{
+    height: 210px;
+    width:  200px;
+    text-align: center;
+    font-size: 17px;
+    margin-top:20px;
+
+
+margin: 20px 0px 0px 70px;
+padding: 50px 0px 0px 5px;
+background-image: url('./images/VikasChahal.jpg');
+background-repeat: no-repeat;
+background-position: left;
+float: left;
+}
+
+.slider8{
+    height:400px;
+    width: 100%;
+
+}
+.slider8{
+    text-align: center;
+    font-size: 18px;
+}
+.slider9{
+    text-align: center;
+    font-size: 18px;
+}
+.slider9{
+    height:500px;
+    width: 100%;
+    color: white;
+    background-image: url("./images/contact-bg.jpg");
+    background-attachment: fixed;
+
+}
+.slider9{
+    text-align: center;
+    font-size: 18px;
+
+}

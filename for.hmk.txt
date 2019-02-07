@@ -1,0 +1,15 @@
+<div class="slider8"><br>
+        <br> <h1>Leadership <b>Team</b></h1>
+        <div class="leadershipteam">
+            <div class= "vikas">
+                <img class="image_vikash">
+                <h3>Vikas Chahal</h3><br>
+                <h2>Co-Founder & Director</h2><br>
+                <span style ="color: #E1813B">Technology</span><br>
+                <br><p>17+ years of experience in IT Technology and Enterprise Solutions.</p>
+                </div>
+             </div>
+         </div>
+
+
+

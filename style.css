@@ -1,0 +1,52 @@
+.main{
+
+  height: 1200px;
+  width: 100%;  
+  
+  }
+  *{
+      padding: 0;
+      margin: 0;
+  }
+
+  .image1{
+      height:550px;
+      width:100%;
+      background-image: url("./images/belief-bg.jpg");
+      background-attachment: fixed;
+
+        }
+        .image1 h1{
+            text-align: center;
+            color: blue;
+            font-size: 43px;
+            padding-top: 150px;
+        }
+        .image2{
+            height:550px;
+            width: 100%;
+            background-image: url("./images/hbackground.png");
+            
+        }
+        .image2 h2{
+            font-size: 23px;
+            text-align: center;
+            padding-top: 20px;
+        }
+        .image2 p{
+            font-family: 'Open Sans', sans-serif;
+            font-size: 14px;
+            line-height: 24px;
+            color: #666;
+            background-color: #fff;
+            text-align: center;
+            padding-top: 10px;
+        }
+        .image3{
+            height:550px;
+            width: 100%;
+            background-image: url("./images/features-bg.jpg");
+            
+            background-size: "cover"
+            background-attachment: fixed;
+        }
